@@ -1,4 +1,4 @@
-<h1 >Hey, Brian Aguilar 🗽</h1>
+<h1 >Hey, I'm Brian Aguilar 🗽</h1>
 <h3>Software Engineer (New York, NY)</h3>
 
 ![spiritedaway](https://github.com/baguilar1998/baguilar1998/assets/14872685/a17c22d0-d3a5-4715-bac1-c945bba2e0dd)
