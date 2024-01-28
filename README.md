@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my Github Page~</h1>
 <h3 align="center">Software Engineer (New York, NY)</h3>
-<iframe src="https://giphy.com/embed/dEdgB3euossMg" width="480" height="305" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-spirited-away-dEdgB3euossMg">via GIPHY</a></p>
+
+![spiritedaway](https://github.com/baguilar1998/baguilar1998/assets/14872685/a17c22d0-d3a5-4715-bac1-c945bba2e0dd)
 
 - 🔭 I’m currently working on a portfolio website to capture memories for 2024
 - 🌱 I’m currently learning new languages such as Korean & Italain
