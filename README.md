@@ -1,5 +1,6 @@
-<h1 align="center">Hey my name is Brian Aguilar</h1>
-<h3 align="center">I'm a Software Engineer based from New York</h3>
+<h1 align="center">Welcome to my Github Page~</h1>
+<h3 align="center">Software Engineer (New York, NY)</h3>
+<iframe src="https://giphy.com/embed/dEdgB3euossMg" width="480" height="305" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-spirited-away-dEdgB3euossMg">via GIPHY</a></p>
 
 - 🔭 I’m currently working on a portfolio website to capture memories for 2024
 - 🌱 I’m currently learning new languages such as Korean & Italain
