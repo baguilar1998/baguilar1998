@@ -4,7 +4,7 @@
 ![spiritedaway](https://github.com/baguilar1998/baguilar1998/assets/14872685/a17c22d0-d3a5-4715-bac1-c945bba2e0dd)
 
 - 🔭 I’m currently working on a portfolio website to capture memories for 2024
-- 🌱 I’m currently learning new languages such as Korean & Italain
+- 🌱 I’m currently learning new languages such as Korean & French
 - 💬 Ask me about: React & Python which is what I specialize in!
 - 📫 How to reach me: Shoot me an email at brian.kenji.aguilar@gmail.com
 - ⚡ Fun fact: I'm part Chinese, even though I have a Japanese middle name (Kenji)
