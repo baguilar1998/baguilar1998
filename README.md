@@ -1,13 +1,14 @@
-<h1 >Hey, I'm Brian Aguilar 🗽</h1>
-<h3>Software Engineer (New York, NY)</h3>
+<p align="center">
+  <img width="800" height="480" alt="night-flight" src="https://github.com/user-attachments/assets/54dca04b-82d6-4e66-8ad1-4763e7c6bb93" />
+</p>
 
-![spiritedaway](https://github.com/baguilar1998/baguilar1998/assets/14872685/a17c22d0-d3a5-4715-bac1-c945bba2e0dd)
+<p align="center">
+  <img width="826" height="636" alt="flight-deck" src="https://github.com/user-attachments/assets/f116ff7c-d001-4fa2-baa8-6135624896c8" />
+</p>
 
-- 🔭 I’m currently working on a portfolio website to capture memories for 2024
-- 🌱 I’m currently learning new languages such as Korean & French
-- 💬 Ask me about: React & Python which is what I specialize in!
-- 📫 How to reach me: Shoot me an email at brian.kenji.aguilar@gmail.com
-- ⚡ Fun fact: I'm part Chinese, even though I have a Japanese middle name (Kenji)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:brian.kenji.aguilar@gmail.com">brian.kenji.aguilar@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/briankenjiaguilar">LinkedIn</a>
+</p>
